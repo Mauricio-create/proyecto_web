@@ -29,7 +29,7 @@ function inicio_de_sesion ()
               <br></br>
               <a style = {{fontSize:'10px', color:'blue'}}>¿Olvidaste tu contraseña?</a>
               <hr></hr>
-              <p style = {{fontSize:'9px'}}><b>Esta página es exclusivament para alunos y/o docentes de la Universidad<br></br> Panamericana 
+              <p style = {{fontSize:'9px'}}><b>Esta página es exclusivamente para alumnos y/o docentes de la Universidad<br></br> Panamericana 
               Campus Mixcoac</b></p>
             </form>
           </div>
